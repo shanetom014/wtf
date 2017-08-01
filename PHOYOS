@@ -1,0 +1,33 @@
+<html>
+<head><title>Shane Thomas's Profile</title></head>
+<body align="center">
+<h1 align="center">Shane Thomas</h1>
+
+<img align="center"src="https://media.giphy.com/media/hsHE0U4dQByBa/giphy.gif" width="180" height="180" alt="Photo of Shane Thomas">
+
+<h2 align="center">Summary</h2>
+<p align="center">I work a very simple yet important role at Google. I like industrial design and UI.</p>
+
+<div align="center">
+<h2 align="center">From</h2>
+Castries, Saint Lucia
+
+<h2 align="center">University</h2>
+Medgar Evers College
+
+<h2 align="center">Other Profiles</h2>
+<ul align="center">
+  <li align="center"><a href="https://plus.google.com/108522713802185076334">Google+</a></li>
+  <li align="center"><a href="http://www.facebook.com/matthew.s.levine">Facebook</a></li>
+  <li align="center"><a href="http://twitter.com/matthewlevine">Twitter</a></li>
+</ul>
+
+<h2 align="center">My Favorite Movies</h2>
+<ol align="center">
+  <li align="center">Bbay Driver</li>
+  <li align="center">War For The Planet Of the Apes</li>
+  <li align="center">The Originals</li>
+</ol>
+
+</body>
+</html>
